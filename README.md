@@ -1,4 +1,4 @@
-# Flappy-bird-python
+# Flappy bird
 A basic Flappy Bird game made in Python made by Nitin Singh
 
 
@@ -46,6 +46,3 @@ You can install Pygame using the following command:
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
